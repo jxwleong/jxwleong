@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as System Validation Engineer at **[Intel](https://www.intel.com/content/www/us/en/homepage.html)**
+- 🔭 I’m currently working as Applications Engineer at **[ARM](https://www.arm.com/)**
 
 - 🌱 I’m currently taking **Master of Computer Science in Software Engineering at [MMU](https://www.mmu.edu.my/)**
 
