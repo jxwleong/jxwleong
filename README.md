@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as Applications Engineer at **[ARM](https://www.arm.com/)**
 
-- 🌱 I’m currently taking **Master of Computer Science in Software Engineering at [MMU](https://www.mmu.edu.my/)**
+- 🌱 I’m just graduated **Master of Computer Science in Software Engineering at [MMU](https://www.mmu.edu.my/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
